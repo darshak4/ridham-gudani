@@ -1,6 +1,6 @@
 # Ridham Gagani - Pulse & Ecosystem Platform (React + Vite)
 
-A modern, high-performance replica of Ridham Gagani's official website and **Pulse (Articles / Journal)** platform ([ridhamshah.com/pulse](https://ridhamshah.com/pulse)), built with **React.js**, **Vite**, **Tailwind CSS**, and **React Router DOM**.
+A modern, high-performance replica of Ridham Gagani's official website and **Pulse (Articles / Journal)** platform, built with **React.js**, **Vite**, **Tailwind CSS**, and **React Router DOM**.
 
 ---
 
