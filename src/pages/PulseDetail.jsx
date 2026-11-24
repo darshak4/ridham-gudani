@@ -117,14 +117,9 @@ export default function PulseDetail() {
 
         {/* Author info */}
         <div className="flex items-center gap-3.5 py-4 border-y border-[#ECECEE] mb-8">
-          <img
-            src="/favicon-logo.png"
-            alt="Ridham Gagani"
-            className="h-11 w-11 rounded-full object-contain border border-zinc-200"
-            onError={(e) => {
-              e.target.style.display = 'none';
-            }}
-          />
+          <div className="h-10 w-10 flex-none flex items-center justify-center rounded-full bg-[#0A0A0B] text-white font-bold text-xs tracking-wider border border-zinc-200">
+            RG
+          </div>
           <div>
             <h4 className="text-sm font-semibold text-[#0A0A0B]">Ridham Gagani</h4>
             <p className="text-xs text-zinc-500">Co-founder & MD, Shivalik Group</p>

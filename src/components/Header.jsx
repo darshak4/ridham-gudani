@@ -18,20 +18,7 @@ export default function Header() {
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between gap-4 px-6 lg:px-8">
         {/* Brand / Logo */}
         <Link to="/" className="flex flex-none items-center gap-3 whitespace-nowrap group">
-          <img
-            alt="Ridham Gagani"
-            loading="lazy"
-            width="32"
-            height="32"
-            className="rounded-md object-contain shadow-xs transition-transform group-hover:scale-105"
-            src="/favicon-logo.png"
-            onError={(e) => {
-              // Fallback stylish avatar if image fails
-              e.target.style.display = 'none';
-              e.target.nextSibling.style.display = 'flex';
-            }}
-          />
-          <div className="hidden h-8 w-8 items-center justify-center rounded-md bg-[#0A0A0B] text-sm font-bold text-white">
+          <div className="flex h-8 w-8 flex-none items-center justify-center rounded-lg bg-[#0A0A0B] text-white font-bold text-xs tracking-wider shadow-xs transition-transform group-hover:scale-105">
             RG
           </div>
           <span className="font-semibold tracking-tight text-[#0A0A0B] text-base">
