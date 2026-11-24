@@ -121,7 +121,7 @@ export default function PulseDetail() {
             RG
           </div>
           <div>
-            <h4 className="text-sm font-semibold text-[#0A0A0B]">Ridham Gagani</h4>
+            <h4 className="text-sm font-semibold text-[#0A0A0B]">Ridham Gudani</h4>
             <p className="text-xs text-zinc-500">Co-founder & MD, Shivalik Group</p>
           </div>
         </div>

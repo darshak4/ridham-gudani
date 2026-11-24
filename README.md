@@ -1,6 +1,6 @@
-# Ridham Gagani - Pulse & Ecosystem Platform (React + Vite)
+# Ridham Gudani - Pulse & Ecosystem Platform (React + Vite)
 
-A modern, high-performance replica of Ridham Gagani's official website and **Pulse (Articles / Journal)** platform, built with **React.js**, **Vite**, **Tailwind CSS**, and **React Router DOM**.
+A modern, high-performance replica of Ridham Gudani's official website and **Pulse (Articles / Journal)** platform, built with **React.js**, **Vite**, **Tailwind CSS**, and **React Router DOM**.
 
 ---
 
@@ -13,7 +13,7 @@ A modern, high-performance replica of Ridham Gagani's official website and **Pul
   - **Search & Filter**: Real-time search across titles and rich article contents.
   - **Pagination Controls**: Clean page navigation matching the original site.
   - **Article Detail Page (`/pulse/:id`)**: Rich typography, reading time estimate, publication date, author bio, social sharing (LinkedIn, Twitter/X, Copy Link with toast), and related articles.
-  - **Home Page (`/`)**: Ridham Gagani overview, stats counter, "Future I See" strategic vision, and "Real Estate Works Better Together" ecosystem cards.
+  - **Home Page (`/`)**: Ridham Gudani overview, stats counter, "Future I See" strategic vision, and "Real Estate Works Better Together" ecosystem cards.
   - **Events Page (`/event`)**: Leadership summits, keynotes, and forums.
   - **Connect Page (`/connect`)**: Interactive message/inquiry form with Ahmedabad HQ address and contact details.
   - **Footer**: Exact social media links (LinkedIn, YouTube, Instagram, Facebook, X/Twitter), and Real Estate OS branding.
@@ -70,7 +70,7 @@ personal_project/
 │   ├── data/
 │   │   └── articlesData.json   # 86 real articles pre-bundled for instant load
 │   ├── pages/
-│   │   ├── Home.jsx            # Ridham Gagani homepage
+│   │   ├── Home.jsx            # Ridham Gudani homepage
 │   │   ├── Pulse.jsx           # Pulse / Articles main page (exact match)
 │   │   ├── PulseDetail.jsx     # Full article reading page
 │   │   ├── Event.jsx           # Events & speaking engagements

@@ -22,7 +22,7 @@ export default function Header() {
             RG
           </div>
           <span className="font-semibold tracking-tight text-[#0A0A0B] text-base">
-            Ridham Gagani
+            Ridham Gudani
           </span>
         </Link>
 

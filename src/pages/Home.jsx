@@ -90,7 +90,7 @@ export default function Home() {
               <span className="text-zinc-400">Real estate must change with it.</span>
             </h1>
             <p className="mt-6 text-lg sm:text-xl text-[#52525B] leading-relaxed max-w-2xl">
-              Ridham Gagani — Co-Founder & Managing Director, Shivalik Group. 
+              Ridham Gudani — Co-Founder & Managing Director, Shivalik Group. 
               Engineering sustainable urban growth, modern spaces, and institutional ecosystems across India.
             </p>
 

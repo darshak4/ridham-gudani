@@ -87,7 +87,7 @@ export default function Connect() {
                 <CheckCircle2 size={48} className="mx-auto text-emerald-500 mb-4" />
                 <h3 className="text-2xl font-bold text-zinc-900 mb-2">Message Sent</h3>
                 <p className="text-sm text-zinc-600 max-w-sm mx-auto mb-6">
-                  Thank you for reaching out. Ridham Gagani's executive office will review your request and get back shortly.
+                  Thank you for reaching out. Ridham Gudani's executive office will review your request and get back shortly.
                 </p>
                 <button
                   type="button"

@@ -101,7 +101,7 @@ export default function Footer() {
 
         {/* Bottom copyright */}
         <div className="pt-4 border-t border-zinc-800 flex flex-col md:flex-row items-center justify-between text-xs text-gray-500 gap-2">
-          <p>© {new Date().getFullYear()} Ridham Gagani. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Ridham Gudani. All rights reserved.</p>
           <div className="flex gap-4">
             <Link to="/pulse" className="hover:text-gray-300">Pulse Articles</Link>
             <Link to="/event" className="hover:text-gray-300">Events</Link>
