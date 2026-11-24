@@ -81,7 +81,7 @@ export default function Pulse() {
             <div className="flex items-center gap-2 mb-2">
               <span className="h-2 w-2 rounded-full bg-blue-600 animate-pulse"></span>
               <span className="text-xs font-bold uppercase tracking-widest text-[#71717A]">
-                Chitrak Shah Journal
+                Ridham Gagani Journal
               </span>
             </div>
             <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight text-[#0A0A0B]">

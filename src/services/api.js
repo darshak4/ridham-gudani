@@ -35,7 +35,7 @@ export const fetchArticlesList = async () => {
         categoryId: item.categoryId,
         categoryTitle: item.categoryTitle || 'Pulse',
         createdAt: item.createdAt || new Date().toISOString(),
-        author: 'Chitrak Shah',
+        author: 'Ridham Gagani',
         authorRole: 'Co-founder & MD, Shivalik Group'
       }));
     }
@@ -73,7 +73,7 @@ export const fetchArticleDetail = async (id) => {
           categoryId: item.categoryId,
           categoryTitle: item.categoryTitle || 'Pulse',
           createdAt: item.createdAt,
-          author: 'Chitrak Shah',
+          author: 'Ridham Gagani',
           authorRole: 'Co-founder & MD, Shivalik Group'
         };
       }

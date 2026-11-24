@@ -12,7 +12,7 @@ export default function Event() {
       location: "GIFT City, Gandhinagar, Gujarat",
       status: "Upcoming",
       description:
-        "Chitrak Shah discusses how tech-driven construction, single-line address frameworks, and institutional capital are restructuring India's real estate ecosystem.",
+        "Ridham Gagani discusses how tech-driven construction, single-line address frameworks, and institutional capital are restructuring India's real estate ecosystem.",
       image: "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&w=1200&q=80"
     },
     {
@@ -54,7 +54,7 @@ export default function Event() {
             Events & Engagements
           </h1>
           <p className="mt-3 text-base text-[#52525B]">
-            Public speaking, keynotes, urban leadership conferences, and interactive discussions hosted or attended by Chitrak Shah.
+            Public speaking, keynotes, urban leadership conferences, and interactive discussions hosted or attended by Ridham Gagani.
           </p>
         </div>
 

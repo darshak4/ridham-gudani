@@ -54,7 +54,7 @@ export default function Connect() {
                 </div>
                 <div>
                   <h4 className="text-sm font-semibold text-[#0A0A0B]">Email</h4>
-                  <p className="text-sm text-zinc-500 mt-0.5">connect@chitrakshah.com</p>
+                  <p className="text-sm text-zinc-500 mt-0.5">connect@ridhamshah.com</p>
                 </div>
               </div>
 
@@ -87,7 +87,7 @@ export default function Connect() {
                 <CheckCircle2 size={48} className="mx-auto text-emerald-500 mb-4" />
                 <h3 className="text-2xl font-bold text-zinc-900 mb-2">Message Sent</h3>
                 <p className="text-sm text-zinc-600 max-w-sm mx-auto mb-6">
-                  Thank you for reaching out. Chitrak Shah's executive office will review your request and get back shortly.
+                  Thank you for reaching out. Ridham Gagani's executive office will review your request and get back shortly.
                 </p>
                 <button
                   type="button"

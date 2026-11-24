@@ -90,7 +90,7 @@ export default function Home() {
               <span className="text-zinc-400">Real estate must change with it.</span>
             </h1>
             <p className="mt-6 text-lg sm:text-xl text-[#52525B] leading-relaxed max-w-2xl">
-              Chitrak Shah — Co-Founder & Managing Director, Shivalik Group. 
+              Ridham Gagani — Co-Founder & Managing Director, Shivalik Group. 
               Engineering sustainable urban growth, modern spaces, and institutional ecosystems across India.
             </p>
 
@@ -106,7 +106,7 @@ export default function Home() {
                 to="/connect"
                 className="inline-flex items-center gap-2 rounded-full border border-zinc-300 bg-white px-6 py-3.5 text-sm font-semibold text-[#0A0A0B] hover:bg-zinc-50 transition-colors"
               >
-                <span>Connect With Chitrak</span>
+                <span>Connect With Ridham</span>
               </Link>
             </div>
           </div>

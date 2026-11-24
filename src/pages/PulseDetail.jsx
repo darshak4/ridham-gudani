@@ -119,14 +119,14 @@ export default function PulseDetail() {
         <div className="flex items-center gap-3.5 py-4 border-y border-[#ECECEE] mb-8">
           <img
             src="/favicon-logo.png"
-            alt="Chitrak Shah"
+            alt="Ridham Gagani"
             className="h-11 w-11 rounded-full object-contain border border-zinc-200"
             onError={(e) => {
               e.target.style.display = 'none';
             }}
           />
           <div>
-            <h4 className="text-sm font-semibold text-[#0A0A0B]">Chitrak Shah</h4>
+            <h4 className="text-sm font-semibold text-[#0A0A0B]">Ridham Gagani</h4>
             <p className="text-xs text-zinc-500">Co-founder & MD, Shivalik Group</p>
           </div>
         </div>

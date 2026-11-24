@@ -7,7 +7,7 @@ export const stripHtml = (html) => {
 };
 
 /**
- * Formats date into relative time string matching Chitrak Shah's site
+ * Formats date into relative time string matching Ridham Gagani's site
  */
 export const formatRelativeTime = (dateStr) => {
   if (!dateStr) return '';

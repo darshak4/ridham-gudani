@@ -19,7 +19,7 @@ export default function Header() {
         {/* Brand / Logo */}
         <Link to="/" className="flex flex-none items-center gap-3 whitespace-nowrap group">
           <img
-            alt="Chitrak Shah"
+            alt="Ridham Gagani"
             loading="lazy"
             width="32"
             height="32"
@@ -32,10 +32,10 @@ export default function Header() {
             }}
           />
           <div className="hidden h-8 w-8 items-center justify-center rounded-md bg-[#0A0A0B] text-sm font-bold text-white">
-            CS
+            RG
           </div>
           <span className="font-semibold tracking-tight text-[#0A0A0B] text-base">
-            Chitrak Shah
+            Ridham Gagani
           </span>
         </Link>
 

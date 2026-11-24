@@ -13,7 +13,7 @@ export default function Footer() {
               target="_blank"
               rel="noopener noreferrer"
               aria-label="LinkedIn"
-              href="https://www.linkedin.com/in/chitrakshivalik/"
+              href="https://www.linkedin.com/in/ridhamshivalik/"
               className="text-gray-400 hover:text-white transition-colors duration-200"
             >
               <svg stroke="currentColor" fill="currentColor" strokeWidth="0" viewBox="0 0 448 512" className="w-5 h-5" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
@@ -26,7 +26,7 @@ export default function Footer() {
               target="_blank"
               rel="noopener noreferrer"
               aria-label="YouTube"
-              href="https://www.youtube.com/@ChitrakShivalik"
+              href="https://www.youtube.com/@RidhamShivalik"
               className="text-gray-400 hover:text-white transition-colors duration-200"
             >
               <svg stroke="currentColor" fill="currentColor" strokeWidth="0" viewBox="0 0 576 512" className="w-5 h-5" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
@@ -39,7 +39,7 @@ export default function Footer() {
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Instagram"
-              href="https://www.instagram.com/chitrakshivalik/"
+              href="https://www.instagram.com/ridhamshivalik/"
               className="text-gray-400 hover:text-white transition-colors duration-200"
             >
               <svg stroke="currentColor" fill="currentColor" strokeWidth="0" viewBox="0 0 448 512" className="w-5 h-5" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
@@ -52,7 +52,7 @@ export default function Footer() {
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Facebook"
-              href="https://www.facebook.com/ChitrakShivalik/"
+              href="https://www.facebook.com/RidhamShivalik/"
               className="text-gray-400 hover:text-white transition-colors duration-200"
             >
               <svg stroke="currentColor" fill="currentColor" strokeWidth="0" viewBox="0 0 512 512" className="w-5 h-5" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
@@ -65,7 +65,7 @@ export default function Footer() {
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Twitter"
-              href="https://x.com/chitrakshivalik"
+              href="https://x.com/ridhamshivalik"
               className="text-gray-400 hover:text-white transition-colors duration-200"
             >
               <svg stroke="currentColor" fill="currentColor" strokeWidth="0" viewBox="0 0 512 512" className="w-5 h-5" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
@@ -101,7 +101,7 @@ export default function Footer() {
 
         {/* Bottom copyright */}
         <div className="pt-4 border-t border-zinc-800 flex flex-col md:flex-row items-center justify-between text-xs text-gray-500 gap-2">
-          <p>© {new Date().getFullYear()} Chitrak Shah. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Ridham Gagani. All rights reserved.</p>
           <div className="flex gap-4">
             <Link to="/pulse" className="hover:text-gray-300">Pulse Articles</Link>
             <Link to="/event" className="hover:text-gray-300">Events</Link>
